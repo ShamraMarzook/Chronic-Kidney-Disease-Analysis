@@ -1,6 +1,6 @@
 # CHRONIC KIDNEY DISEASE ANALYSIS
 
-# INTRODUCTION
+### INTRODUCTION
 
 Chronic kidney disease, also known as chronic renal disease is a major medical problem that damage the kidneys which results in a gradual loss of kidney function and decrease their ability to keep one healthy.Early detection and treatment can often keep chronic kidney disease from getting worse and delay the process, preventing it from being fatal.
 
