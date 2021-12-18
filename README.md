@@ -10,4 +10,4 @@ This work train and test the given factors which causes Chronic Kidney Disease a
 
 This work predominantly focused on, prediction of chronic kidney disease in patients using classification techniques of data mining. Thereby, down-staging it to stages that are more amenable to curative treatment.
 
-First the dataset was obtained, and the data-preprocessing was done. Then feature selection and model evaluation and classification was done to obtain favorable results. My contribution to the project included both the data pre-processing as well as the model evaluation
+First the dataset was obtained, and the data-preprocessing was done. Then feature selection and model evaluation and classification was done to obtain favorable results. 
